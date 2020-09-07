@@ -800,6 +800,14 @@
 					border-left: 0;
 				}
 
+.container {
+  width: 20%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 /* Wrapper */
 
 	#wrapper {

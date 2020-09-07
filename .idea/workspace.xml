@@ -58,21 +58,7 @@
       <workItem from="1599466091260" duration="1550000" />
       <workItem from="1599467897505" duration="449000" />
       <workItem from="1599492589930" duration="922000" />
-      <workItem from="1599494393719" duration="355000" />
-    </task>
-    <task id="LOCAL-00010" summary="add">
-      <created>1599462628575</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1599462628575</updated>
-    </task>
-    <task id="LOCAL-00011" summary="add">
-      <created>1599462745651</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1599462745651</updated>
+      <workItem from="1599494393719" duration="792000" />
     </task>
     <task id="LOCAL-00012" summary="add">
       <created>1599462993855</created>
@@ -403,7 +389,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599494642209</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="add sub">
+      <created>1599494750823</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1599494750823</updated>
+    </task>
+    <task id="LOCAL-00060" summary="add sub">
+      <created>1599494885176</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1599494885176</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -460,10 +460,10 @@
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state x="2500" y="185" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599465979306" />
-    <state x="2312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1599494644969">
+    <state x="2312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1599494887807">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state x="2312" y="163" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599494644969" />
+    <state x="2312" y="163" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599494887807" />
     <state x="2012" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599466079715">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
