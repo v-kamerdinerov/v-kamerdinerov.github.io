@@ -10,8 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5738e0e6-71fa-4081-86e3-51e592e43ea4" name="Default Changelist" comment="add files">
-      <change beforePath="$PROJECT_DIR$/images/icon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/images/icon.ico" afterDir="false" />
+    <list default="true" id="5738e0e6-71fa-4081-86e3-51e592e43ea4" name="Default Changelist" comment="fix">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +47,7 @@
       <updated>1599459786995</updated>
       <workItem from="1599459788282" duration="1815000" />
       <workItem from="1599461810444" duration="1795000" />
-      <workItem from="1599463618245" duration="940000" />
+      <workItem from="1599463618245" duration="1245000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1599459846532</created>
@@ -225,7 +224,28 @@
       <option name="project" value="LOCAL" />
       <updated>1599464510983</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="fix">
+      <created>1599464562729</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1599464562729</updated>
+    </task>
+    <task id="LOCAL-00027" summary="fix">
+      <created>1599464578475</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1599464578475</updated>
+    </task>
+    <task id="LOCAL-00028" summary="fix">
+      <created>1599464735523</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1599464735523</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,10 +269,10 @@
     <MESSAGE value="add" />
     <MESSAGE value="add google" />
     <MESSAGE value="align" />
-    <MESSAGE value="fix" />
     <MESSAGE value="add icon" />
     <MESSAGE value="add files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add files" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2458" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599463337680">
