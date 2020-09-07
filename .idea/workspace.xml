@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5738e0e6-71fa-4081-86e3-51e592e43ea4" name="Default Changelist" comment="add sub" />
+    <list default="true" id="5738e0e6-71fa-4081-86e3-51e592e43ea4" name="Default Changelist" comment="del github" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,28 +56,7 @@
       <workItem from="1599466091260" duration="1550000" />
       <workItem from="1599467897505" duration="449000" />
       <workItem from="1599492589930" duration="922000" />
-      <workItem from="1599494393719" duration="1484000" />
-    </task>
-    <task id="LOCAL-00016" summary="add">
-      <created>1599463529570</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1599463529570</updated>
-    </task>
-    <task id="LOCAL-00017" summary="add">
-      <created>1599463571215</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1599463571215</updated>
-    </task>
-    <task id="LOCAL-00018" summary="fix">
-      <created>1599463655734</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1599463655734</updated>
+      <workItem from="1599494393719" duration="1796000" />
     </task>
     <task id="LOCAL-00019" summary="add google">
       <created>1599463714550</created>
@@ -401,7 +380,28 @@
       <option name="project" value="LOCAL" />
       <updated>1599495642462</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="add sub">
+      <created>1599495943083</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1599495943083</updated>
+    </task>
+    <task id="LOCAL-00066" summary="add sub">
+      <created>1599496063011</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1599496063012</updated>
+    </task>
+    <task id="LOCAL-00067" summary="del github">
+      <created>1599496165058</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1599496165058</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -443,7 +443,8 @@
     <MESSAGE value="icon" />
     <MESSAGE value="fix" />
     <MESSAGE value="add sub" />
-    <option name="LAST_COMMIT_MESSAGE" value="add sub" />
+    <MESSAGE value="del github" />
+    <option name="LAST_COMMIT_MESSAGE" value="del github" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2458" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599463337680">
@@ -458,10 +459,10 @@
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state x="2500" y="185" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599465979306" />
-    <state x="2312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1599495645047">
+    <state x="2312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1599496167142">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state x="2312" y="163" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599495645047" />
+    <state x="2312" y="163" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599496167142" />
     <state x="2012" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599466079715">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
