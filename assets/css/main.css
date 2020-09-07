@@ -483,11 +483,9 @@
 	}
 
 		ul li {
-			/*
-			padding-left: 0.5em;
-			 */
-			margin: 20px; /* To remove default bottom margin */
-			padding: 0;
+
+			padding-left: 0;
+
 		}
 
 		ul.alt {
