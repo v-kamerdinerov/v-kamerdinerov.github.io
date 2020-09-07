@@ -1,0 +1,58 @@
+/* .gw-repo-outer {
+  float: left;
+  width: 50%;
+} */
+.gw-repo-outer:nth-child(2n + 1) {
+  clear: left;
+}
+.gw-repo {
+  padding: 0.5em 0;
+  margin: 0 1.5em 1em 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+.gw-repo:nth-child(2n) {
+  margin: 0 0 1em 1.5em;
+}
+.gw-title{
+  margin-bottom: 0.3em;
+}
+.gw-name {
+  font-weight: bold;
+  color: #ffffff;
+}
+.gw-name:hover, .gw-name:focus {
+  text-decoration: underline;
+  color: #ffffff;
+}
+.gw-repo-desc{
+  color: #ffffff;
+}
+.gw-stats {
+  display: inline-block;
+  margin: 0;
+  float: right;
+}
+.gw-watchers, .gw-forks {
+  display: inline-block;
+  height: 21px;
+  padding: 0 5px 0 23px;
+  line-height: 21px;
+  background: transparent url('repostat.png') no-repeat 0 0;
+}
+.gw-watchers {
+  display: none;
+  background-position: 5px -2px;
+  color: #ffffff;
+}
+.gw-forks {
+  display: none;
+  background-position: 5px -52px;
+  color: #ffffff;
+}
+.gw-lang {
+  font-size: 0.8em;
+  color: #ffffff;
+}
+.gw-clearer {
+  clear: left;
+}
