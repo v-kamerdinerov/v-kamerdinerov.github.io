@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5738e0e6-71fa-4081-86e3-51e592e43ea4" name="Default Changelist" comment="add">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/v-kamerdinerov.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/hero-slider-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/templatemo-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font-awesome-4.6.3/HELP-US-OUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font-awesome-4.6.3/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font-awesome-4.6.3/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font-awesome-4.6.3/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font-awesome-4.6.3/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font-awesome-4.6.3/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font-awesome-4.6.3/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font-awesome-4.6.3/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tm-img-01-tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tm-img-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tm-img-02-tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tm-img-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tm-img-03-tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tm-img-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tm-img-04-tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tm-img-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tm-img-05-tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tm-img-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tm-img-06-tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tm-img-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/hero-slider-main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.11.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/sunset-loop.mp4" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hAhQOtRKLx4iAlDClje80BwXh1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TF_FMT" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5738e0e6-71fa-4081-86e3-51e592e43ea4" name="Default Changelist" comment="" />
+      <created>1599459786995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599459786995</updated>
+      <workItem from="1599459788282" duration="1815000" />
+      <workItem from="1599461810444" duration="642000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1599459846532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599459846532</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1599459992820</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599459992820</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <created>1599460393360</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599460393360</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init">
+      <created>1599460701347</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599460701347</updated>
+    </task>
+    <task id="LOCAL-00005" summary="del gallery">
+      <created>1599460816097</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599460816097</updated>
+    </task>
+    <task id="LOCAL-00006" summary="del gallery">
+      <created>1599461068408</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599461068408</updated>
+    </task>
+    <task id="LOCAL-00007" summary="del gallery">
+      <created>1599461341500</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599461341500</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add">
+      <created>1599462018973</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599462018973</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add">
+      <created>1599462109035</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599462109035</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="del gallery" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1599462111297">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2312" y="163" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599462111297" />
+  </component>
+</project>
