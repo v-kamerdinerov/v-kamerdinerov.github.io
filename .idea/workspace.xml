@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5738e0e6-71fa-4081-86e3-51e592e43ea4" name="Default Changelist" comment="fix">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="5738e0e6-71fa-4081-86e3-51e592e43ea4" name="Default Changelist" comment="github widget" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +45,7 @@
       <updated>1599459786995</updated>
       <workItem from="1599459788282" duration="1815000" />
       <workItem from="1599461810444" duration="1795000" />
-      <workItem from="1599463618245" duration="1245000" />
+      <workItem from="1599463618245" duration="1564000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1599459846532</created>
@@ -245,7 +243,28 @@
       <option name="project" value="LOCAL" />
       <updated>1599464735523</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="add project">
+      <created>1599464872112</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1599464872112</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add project">
+      <created>1599464879179</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1599464879179</updated>
+    </task>
+    <task id="LOCAL-00031" summary="github widget">
+      <created>1599465095668</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1599465095668</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,16 +291,18 @@
     <MESSAGE value="add icon" />
     <MESSAGE value="add files" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="add project" />
+    <MESSAGE value="github widget" />
+    <option name="LAST_COMMIT_MESSAGE" value="github widget" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2458" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599463337680">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state x="2458" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599463337680" />
-    <state x="2312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1599464738006">
+    <state x="2312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1599465157480">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state x="2312" y="163" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599464738006" />
+    <state x="2312" y="163" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599465157480" />
   </component>
 </project>
