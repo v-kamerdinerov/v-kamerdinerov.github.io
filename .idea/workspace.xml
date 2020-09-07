@@ -11,9 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5738e0e6-71fa-4081-86e3-51e592e43ea4" name="Default Changelist" comment="fix widget">
-      <change beforePath="$PROJECT_DIR$/assets/gw/github-widget.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/gw/github-widget.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/gw/github-widget.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/gw/github-widget.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
       <workItem from="1599459788282" duration="1815000" />
       <workItem from="1599461810444" duration="1795000" />
       <workItem from="1599463618245" duration="1796000" />
-      <workItem from="1599465423613" duration="336000" />
+      <workItem from="1599465423613" duration="659000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1599459846532</created>
@@ -290,11 +288,56 @@
       <option name="project" value="LOCAL" />
       <updated>1599465658279</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="fix widget">
+      <created>1599465770672</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1599465770672</updated>
+    </task>
+    <task id="LOCAL-00036" summary="fix widget">
+      <created>1599465779730</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1599465779730</updated>
+    </task>
+    <task id="LOCAL-00037" summary="fix widget">
+      <created>1599465875113</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1599465875113</updated>
+    </task>
+    <task id="LOCAL-00038" summary="fix widget">
+      <created>1599465924308</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1599465924308</updated>
+    </task>
+    <task id="LOCAL-00039" summary="fix widget">
+      <created>1599466031129</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1599466031129</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -327,9 +370,21 @@
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state x="2458" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599463337680" />
-    <state x="2312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1599465660688">
+    <state x="2012" y="92" width="1416" height="676" key="DiffContextDialog" timestamp="1599466079715">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state x="2312" y="163" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599465660688" />
+    <state x="2012" y="92" width="1416" height="676" key="DiffContextDialog/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599466079715" />
+    <state x="2500" y="185" key="FileChooserDialogImpl" timestamp="1599465979306">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2500" y="185" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599465979306" />
+    <state x="2312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1599466078440">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2312" y="163" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599466078440" />
+    <state x="2012" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599466079715">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2012" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599466079715" />
   </component>
 </project>
