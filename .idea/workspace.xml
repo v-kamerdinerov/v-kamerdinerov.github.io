@@ -11,47 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5738e0e6-71fa-4081-86e3-51e592e43ea4" name="Default Changelist" comment="add">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/v-kamerdinerov.github.io.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/hero-slider-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/magnific-popup.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/templatemo-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-awesome-4.6.3/HELP-US-OUT.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-awesome-4.6.3/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-awesome-4.6.3/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-awesome-4.6.3/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-awesome-4.6.3/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-awesome-4.6.3/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-awesome-4.6.3/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-awesome-4.6.3/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg-05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tm-img-01-tn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tm-img-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tm-img-02-tn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tm-img-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tm-img-03-tn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tm-img-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tm-img-04-tn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tm-img-04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tm-img-05-tn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tm-img-05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tm-img-06-tn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tm-img-06.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/hero-slider-main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-1.11.3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/sunset-loop.mp4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599459786995</updated>
       <workItem from="1599459788282" duration="1815000" />
-      <workItem from="1599461810444" duration="642000" />
+      <workItem from="1599461810444" duration="1010000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1599459846532</created>
@@ -151,7 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599462109035</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add">
+      <created>1599462628575</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1599462628575</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add">
+      <created>1599462745651</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1599462745651</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,9 +150,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1599462630745">
+    <state x="2312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1599462748336">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state x="2312" y="163" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599462630745" />
+    <state x="2312" y="163" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599462748336" />
   </component>
 </project>
