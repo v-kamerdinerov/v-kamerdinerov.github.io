@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5738e0e6-71fa-4081-86e3-51e592e43ea4" name="Default Changelist" comment="fix" />
+    <list default="true" id="5738e0e6-71fa-4081-86e3-51e592e43ea4" name="Default Changelist" comment="add link">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,13 +61,7 @@
       <workItem from="1599494393719" duration="1796000" />
       <workItem from="1599496217616" duration="1684000" />
       <workItem from="1599498069943" duration="124000" />
-    </task>
-    <task id="LOCAL-00032" summary="fix widget">
-      <created>1599465282313</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1599465282313</updated>
+      <workItem from="1599551401027" duration="323000" />
     </task>
     <task id="LOCAL-00033" summary="fix widget">
       <created>1599465458981</created>
@@ -403,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599498179542</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="add link">
+      <created>1599551567428</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1599551567429</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,7 +449,8 @@
     <MESSAGE value="add sub" />
     <MESSAGE value="del github" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="add link" />
+    <option name="LAST_COMMIT_MESSAGE" value="add link" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2458" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599463337680">
