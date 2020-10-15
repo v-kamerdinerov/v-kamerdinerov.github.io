@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5738e0e6-71fa-4081-86e3-51e592e43ea4" name="Default Changelist" comment="add link" />
+    <list default="true" id="5738e0e6-71fa-4081-86e3-51e592e43ea4" name="Default Changelist" comment="add link">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,12 +35,15 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.24566768" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Влад\PycharmProjects\v-kamerdinerov.github.io\assets\css" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -464,6 +469,10 @@
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state x="2500" y="185" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599465979306" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1602691989709">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1602691989709" />
     <state x="2312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1599498180972">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
