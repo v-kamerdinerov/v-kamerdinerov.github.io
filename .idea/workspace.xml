@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5738e0e6-71fa-4081-86e3-51e592e43ea4" name="Default Changelist" comment="add link">
+    <list default="true" id="5738e0e6-71fa-4081-86e3-51e592e43ea4" name="Default Changelist" comment="minor fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1hAhQOtRKLx4iAlDClje80BwXh1" />
   <component name="ProjectViewState">
@@ -66,13 +67,6 @@
       <workItem from="1599498069943" duration="124000" />
       <workItem from="1599551401027" duration="323000" />
       <workItem from="1599726730063" duration="3000" />
-    </task>
-    <task id="LOCAL-00033" summary="fix widget">
-      <created>1599465458981</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1599465458981</updated>
     </task>
     <task id="LOCAL-00034" summary="fix widget">
       <created>1599465658279</created>
@@ -410,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599551567429</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="minor fix">
+      <created>1602749874459</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1602749874459</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,7 +455,8 @@
     <MESSAGE value="del github" />
     <MESSAGE value="fix" />
     <MESSAGE value="add link" />
-    <option name="LAST_COMMIT_MESSAGE" value="add link" />
+    <MESSAGE value="minor fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2458" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599463337680">
@@ -473,13 +475,18 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1602691989709" />
-    <state x="2312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1599498180972">
-      <screen x="1920" y="0" width="1600" height="860" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1602749879736">
+      <screen x="0" y="0" width="1475" height="789" />
     </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1475.789@0.0.1475.789" timestamp="1602749879736" />
     <state x="2312" y="163" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599498180972" />
     <state x="2012" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599466079715">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state x="2012" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599466079715" />
+    <state x="557" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605783245956">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="557" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1475.789@0.0.1475.789" timestamp="1605783245956" />
   </component>
 </project>
