@@ -10,212 +10,26 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5738e0e6-71fa-4081-86e3-51e592e43ea4" name="Default Changelist" comment="minor fix">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/resume.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/json_resume/en.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/webmentions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/google9e6259e67fa9d8ac.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/images/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/.eslintrc.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/archetypes/default.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/archetypes/posts.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/assets/js/menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/assets/js/prism.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/assets/scss/_404.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/assets/scss/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/assets/scss/_fonts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/assets/scss/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/assets/scss/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/assets/scss/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/assets/scss/_logo.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/assets/scss/_main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/assets/scss/_menu.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/assets/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/assets/scss/_normalize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/assets/scss/_prism.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/assets/scss/_sharing-buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/assets/scss/_single.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/assets/scss/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/assets/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/assets/scss/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/data/langFlags.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/docs/config.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/docs/favicons.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/docs/svgs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/exampleSite/config.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/exampleSite/content/about.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/exampleSite/content/posts/creating-a-new-theme.fr.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/exampleSite/content/posts/creating-a-new-theme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/exampleSite/content/posts/goisforlovers.fr.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/exampleSite/content/posts/goisforlovers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/exampleSite/content/posts/hugoisforlovers.fr.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/exampleSite/content/posts/hugoisforlovers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/exampleSite/content/posts/migrate-from-jekyll.fr.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/exampleSite/content/posts/migrate-from-jekyll.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/exampleSite/resources/_gen/assets/scss/scss/main.scss_de1a7f5f1c8c46959803c429bb697ff0.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/exampleSite/resources/_gen/assets/scss/scss/main.scss_de1a7f5f1c8c46959803c429bb697ff0.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/i18n/de.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/i18n/en.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/i18n/es.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/i18n/fr.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/i18n/gl.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/i18n/hi.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/i18n/it.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/i18n/ja.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/i18n/lmo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/i18n/ml.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/i18n/pt-br.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/i18n/ro.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/i18n/ru.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/i18n/tr.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/i18n/uk.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/i18n/zh-cn.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/i18n/zh-hk.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/i18n/zh-tw.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/images/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/images/tn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/_default/baseof.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/_default/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/_default/single.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/partials/categories.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/partials/favicons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/partials/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/partials/head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/partials/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/partials/javascript.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/partials/logo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/partials/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/partials/pagination-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/partials/pagination-single.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/partials/sharing-buttons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/partials/social-icons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/partials/subtitle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/partials/svg.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/partials/tags.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/partials/theme-toggle-icon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/posts/rss.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/posts/single.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/layouts/shortcodes/image.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/static/fonts/Inter-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/static/fonts/Inter-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/static/fonts/Inter-BoldItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/static/fonts/Inter-BoldItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/static/fonts/Inter-Italic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/static/fonts/Inter-Italic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/static/fonts/Inter-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/static/fonts/Inter-Medium.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/static/fonts/Inter-MediumItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/static/fonts/Inter-MediumItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/static/fonts/Inter-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/static/fonts/Inter-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/themes/hello-friend-ng/theme.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/mstile-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/safari-pinned-tab.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/site.webmanifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="5738e0e6-71fa-4081-86e3-51e592e43ea4" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/build.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/json_resume/ru.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/brands.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/css/brands.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/fontawesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/css/fontawesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/github-widget.coffee" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/css/github-widget.coffee" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/github-widget.css" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/css/github-widget.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/github-widget.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/css/github-widget.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/github-widget.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/css/github-widget.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/css/ie8.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/ie9.css" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/css/ie9.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/css/images/overlay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/css/noscript.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/repostat.png" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/css/repostat.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/solid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/css/solid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/sub.css" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/css/sub.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/PIE.htc" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/js/PIE.htc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/html5shiv.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/js/html5shiv.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/respond.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/js/respond.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/base/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/sass/base/_page.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/sass/base/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/sass/components/_button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/sass/components/_form.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/sass/components/_icon.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/sass/components/_list.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/ie8.scss" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/sass/ie8.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/ie9.scss" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/sass/ie9.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/sass/layout/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/sass/layout/_main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/sass/layout/_wrapper.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/sass/libs/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/sass/libs/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_skel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/sass/libs/_skel.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/sass/libs/_vars.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/sass/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/noscript.scss" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/sass/noscript.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.eot" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.woff" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/old/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/DevopsKamerdinerov.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/old/files/DevopsKamerdinerov.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/EF_SET_Certificate.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/old/files/EF_SET_Certificate.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/v-kamerdinerov-eng.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/old/files/v-kamerdinerov-eng.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/v-kamerdinerov-rus.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/old/files/v-kamerdinerov-rus.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/google9e6259e67fa9d8ac.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/index.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/old/images/bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/old/images/icon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/chringel-hugo-theme/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/json_resume/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/json_resume/en.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/webmentions.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/webmentions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/android-chrome-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/android-chrome-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/android-chrome-512x512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/mstile-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/mstile-150x150.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/safari-pinned-tab.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/safari-pinned-tab.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/assets/css/build.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/chringel-hugo-theme/assets/css/build.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/assets/svg/download" beforeDir="false" afterPath="$PROJECT_DIR$/themes/chringel-hugo-theme/assets/svg/download" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/assets/images/index.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/config.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/content/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/content/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/content/archive.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/content/blog/first-post/images/paulo-ziemer-oV3zTK7vuP0-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/content/blog/first-post/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/content/blog/lorem-markdownum/images/aaron-burden-AXqMy8MSSdk-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/content/blog/lorem-markdownum/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/content/blog/second-post/images/randy-tarampi-U2eUlPEKIgU-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/content/blog/second-post/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/content/resume.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/data/json_resume/en.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/data/webmentions.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/layouts/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/static/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/static/android-chrome-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/static/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/static/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/static/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/static/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/static/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/static/mstile-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/static/safari-pinned-tab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/exampleSite/static/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/chringel-hugo-theme/layouts/resume/baseof.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/chringel-hugo-theme/layouts/resume/baseof.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,6 +40,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1hAhQOtRKLx4iAlDClje80BwXh1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -234,19 +51,45 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "/Users/v.kamerdinerov/PycharmProjects/v-kamerdinerov.github.io/static"
+    "TF_FMT": "false",
+    "last_opened_file_path": "/Users/v.kamerdinerov/PycharmProjects/v-kamerdinerov.github.io/data/json_resume",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/json_resume" />
       <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="C:\Users\Влад\PycharmProjects\v-kamerdinerov.github.io\assets\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/old" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="download" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/themes/chringel-hugo-theme/assets/svg/download" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/themes/chringel-hugo-theme/assets/svg" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Shell Script.download" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -271,13 +114,6 @@
       <workItem from="1599498069943" duration="124000" />
       <workItem from="1599551401027" duration="323000" />
       <workItem from="1599726730063" duration="3000" />
-    </task>
-    <task id="LOCAL-00034" summary="fix widget">
-      <created>1599465658279</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1599465658279</updated>
     </task>
     <task id="LOCAL-00035" summary="fix widget">
       <created>1599465770672</created>
@@ -615,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602749874459</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="init">
+      <created>1669555746469</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1669555746469</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -643,7 +486,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="init" />
     <MESSAGE value="del gallery" />
     <MESSAGE value="add" />
     <MESSAGE value="add google" />
@@ -659,37 +501,7 @@
     <MESSAGE value="fix" />
     <MESSAGE value="add link" />
     <MESSAGE value="minor fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor fix" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2458" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599463337680">
-      <screen x="1920" y="0" width="1600" height="860" />
-    </state>
-    <state x="2458" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599463337680" />
-    <state x="2027" y="321" width="1416" height="676" key="DiffContextDialog" timestamp="1599467889141">
-      <screen x="1920" y="0" width="1600" height="860" />
-    </state>
-    <state x="2027" y="321" width="1416" height="676" key="DiffContextDialog/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599467889141" />
-    <state x="2500" y="185" key="FileChooserDialogImpl" timestamp="1599465979306">
-      <screen x="1920" y="0" width="1600" height="860" />
-    </state>
-    <state x="2500" y="185" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599465979306" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1602691989709">
-      <screen x="0" y="0" width="1280" height="689" />
-    </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1602691989709" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1602749879736">
-      <screen x="0" y="0" width="1475" height="789" />
-    </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1475.789@0.0.1475.789" timestamp="1602749879736" />
-    <state x="2312" y="163" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599498180972" />
-    <state x="2012" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599466079715">
-      <screen x="1920" y="0" width="1600" height="860" />
-    </state>
-    <state x="2012" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1599466079715" />
-    <state x="557" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605783245956">
-      <screen x="0" y="0" width="1475" height="789" />
-    </state>
-    <state x="557" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1475.789@0.0.1475.789" timestamp="1605783245956" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
