@@ -18,8 +18,7 @@ CanonifyURLs = true
     name = "vlad"
     description = "Personal page"
 
-    github_user = "chringel21"
-    github_repo = "https://github.com/chringel21/chringel-hugo-theme"
+    github_repo = "https://github.com/v-kamerdinerov/v-kamerdinerov.github.io"
     github_banner = true
 
     favicon = "favicon.ico"
