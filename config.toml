@@ -1,4 +1,4 @@
-title = "Vlad kamerdinerov - Personal web page"
+title = "Vlad kamerdinerov"
 languageCode = "en-us"
 baseurl = "https://v-kamerdinerov.github.io/"
 theme = "chringel-hugo-theme"
@@ -7,19 +7,9 @@ themesDir = "themes"
 author = "Vlad kamerdinerov"
 copyright = "Copyright © 2022, Vlad kamerdinerov, all rights reserved."
 
-pluralizelisttitles = false
-paginate = 10
-enableEmoji = true
-
-RelativeURLs = true
-CanonifyURLs = true
-
 [Params]
     name = "vlad"
     description = "Personal page"
-
-    github_repo = "https://github.com/v-kamerdinerov/v-kamerdinerov.github.io"
-    github_banner = true
 
     favicon = "favicon.ico"
 
@@ -33,8 +23,7 @@ CanonifyURLs = true
     showPrevNextPostNavigation = true
     recentpostsonindex = false
 
-# Favicons config
-# Get your favicons from https://realfavicongenerator.net/
+
 [Params.favicons]
   appleTouchIcon = '/apple-touch-icon.png'
   icon32 = '/favicon-32x32.png'
@@ -43,60 +32,3 @@ CanonifyURLs = true
   maskIcon = '/safari-pinned-tab.svg'
   msApplicationTileColor = '#5bbad5'
   themeColor = '#ffffff'
-
-# Isso configuration
-# https://posativ.org/isso/docs/configuration/client/
-[Params.isso]
-  enabled = true
-  data = "https://v-kamerdinerov.github.io/"
-  id = "thread-id"
-  css = true
-  lang = "en"
-  replyToSelf = true
-  requireAuthor = true
-  requireEmail = false
-  avatar = true
-  avatar-bg = "#f0f0f0"
-  jsLocation = "https://comments.example.com/js/embed.min.js"
-
-# Umami configuration
-# https://umami.is/docs/install
-[Params.umami]
-  enabled = true
-  websiteId = "1234567-abcd-efgh-0000-abcdefg1234"
-  jsLocation = "https://analytics.example.com/umami.js"
-
-# h-card configuration
-# fullName is mandatory
-  [Params.hcard]
-  avatar = "images/index.png"
-  fullName = "Vlad Kamerdinerov"
-  pronouns = [ "he", "him" ]
-  nickname = "VladFleur"
-  showLocation = true
-  city = "Ryazan"
-  region = "Ryazanskaya oblast"
-  country = "Russia"
-
-# Social icons to be displayed on the front page
-[[menu.social]]
-  name = "GitHub"
-  url = "https://github.com/v-kamerdinerov"
-
-[[menu.social]]
-  name = "Linkedin"
-  url = "https://www.linkedin.com/in/vladislav-kamerdinerov/"
-
-[[menu.social]]
-  name = "telegram"
-  url = "https://t.me/VladFleur"
-
-
-# To make purging of CSS classes work in production
-[build]
-  writeStats = true
-
-# syntax highlight settings
-[markup]
-  [markup.highlight]
-    style = "dracula"
