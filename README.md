@@ -1,1 +1,0 @@
-# v-kamerdinerov.github.io
