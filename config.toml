@@ -1,34 +1,3 @@
-title = "Vlad kamerdinerov"
-languageCode = "en-us"
-baseurl = "https://v-kamerdinerov.github.io/"
-theme = "chringel-hugo-theme"
-themesDir = "themes"
-
-author = "Vlad kamerdinerov"
-copyright = "Copyright © 2022, Vlad kamerdinerov, all rights reserved."
-
-[Params]
-    name = "vlad"
-    description = "Personal page"
-
-    favicon = "favicon.ico"
-
-    # Title to be displayed in header
-    headerTitle = 'v-kamerdinerov@dev: ~/$'
-    # User image
-    titleImage = 'images/index.png'
-    # Copyright text displayed in footer, Markdown allowed
-    footerCopyrightText = 'Vlad Kamerdinerov 2022'
-    # Show 'Previous Post/Next Post' navigation (defaults to true)
-    showPrevNextPostNavigation = true
-    recentpostsonindex = false
-
-
-[Params.favicons]
-  appleTouchIcon = '/apple-touch-icon.png'
-  icon32 = '/favicon-32x32.png'
-  icon16 = '/favicon-16x16.png'
-  manifest = '/site.webmanifest'
-  maskIcon = '/safari-pinned-tab.svg'
-  msApplicationTileColor = '#5bbad5'
-  themeColor = '#ffffff'
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
